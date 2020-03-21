@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia Fest</string>
+    <string name="title">Trivia Fest</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="prev_text">Previous</string>
+    <string name="next_text">Next</string>
+    <string name="question_counter">0 out of 100</string>
+    <string name="right_answer">Yipee.. Correct Answer</string>
+    <string name="wrong_answer">Oops!!! Wrong Answer</string>
+    <string name="score_text">Score:</string>
+    <string name="highscore">High Score:</string>
+    <string name="reset">reset</string>
+    <string name="share_txt">Share</string>
+</resources>
